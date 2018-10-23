@@ -1,0 +1,26 @@
+{
+  "name": "LeetCodeStart",
+  "version": "1.0.0",
+  "description": "LEETCODE 个人刷题集",
+  "main": "p1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Onlfov25/LeetCodeStart.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Onlfov25/LeetCodeStart/issues"
+  },
+  "homepage": "https://github.com/Onlfov25/LeetCodeStart#readme",
+  "devDependencies": {
+    "eslint": "^5.7.0",
+    "eslint-config-airbnb": "^17.1.0",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.14.0"
+  }
+}
